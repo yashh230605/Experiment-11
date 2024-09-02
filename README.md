@@ -65,9 +65,9 @@ Access specifiers determine the visibility and accessibility of class members (a
 ## Codes :
 ### 1.
 ```
-//sneha diwan
-//23070123126
-//entc-B2
+//Yash Nangia
+//23070123152
+//entc-B3
 //experiment-11
 # include<iostream>
 using namespace std;
@@ -86,9 +86,9 @@ int main(){
 ```
 ### 2.
 ```
-//sneha diwan
-//23070123126
-//entc-B2
+//Yash Nangia
+//23070123152
+//entc-B3
 //experiment-11
 #include<iostream>
 using namespace std;
@@ -117,9 +117,9 @@ int main()
 
 ### 3.
 ```
-//sneha diwan
-//23070123126
-//entc-B2
+//Yash Nangia
+//23070123152
+//entc-B3
 //experiment-11
 #include<iostream>
 using namespace std;
@@ -150,9 +150,9 @@ int main()
 
 ### 4.
 ```
-//sneha diwan
-//23070123126
-//entc-B2
+//Yash Nangia
+//23070123152
+//entc-B3
 //experiment-11
 #include<iostream>
 using namespace std;
@@ -185,9 +185,9 @@ int main()
 ```
 ### 5.
 ```
-//sneha diwan
-//23070123126
-//entc-B2
+//Yash Nangia
+//23070123152
+//entc-B3
 //experiment-11
 #include<iostream>
 using namespace std;

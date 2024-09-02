@@ -21,3 +21,7 @@ int main()
     double v = cube1.volume();
     cout<<"volume:"<<v<<endl;
 }
+
+//Output
+
+volume:60

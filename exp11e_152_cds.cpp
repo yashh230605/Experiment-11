@@ -33,3 +33,10 @@ int main()
     float a=volume1.vol();
     cout<<a;
 }
+
+//Output
+
+enter the value of length: 10
+enter the value of width: 15
+enter the value of height: 20
+3000

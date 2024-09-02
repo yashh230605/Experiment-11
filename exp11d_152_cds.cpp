@@ -26,3 +26,7 @@ int main()
     cout<<"volume:"<<v<<endl;
     cube1.disp_vol(v);
 }
+
+//Output
+volume:210
+volume :210

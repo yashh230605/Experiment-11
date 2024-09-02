@@ -17,3 +17,8 @@ int main(){
     double volume=c1.height*c1.width*c1.length;
     cout<<"volume is: "<<volume<<endl;
 }
+
+//Output
+
+volume is: 180
+
